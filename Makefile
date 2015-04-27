@@ -13,4 +13,4 @@ czekamnaudp: czekamnaudp.o
 
 .PHONY: clean TARGET
 clean:
-	rm -f echo-server echo-client *.o *~ *.bak
+	rm -f ileczekam czekamnaudp *.o *~ *.bak
